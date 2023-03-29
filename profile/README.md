@@ -1,4 +1,4 @@
-Building better websites publishing experience
+Building expressive websites publishing experience
 
 <!--
 
